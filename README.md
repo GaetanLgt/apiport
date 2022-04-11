@@ -54,7 +54,7 @@ Installation
     
     db_name: nom de votre base par exemple 'db_name'
 
-DATABASE_URL=mysql://admin:Oracle$1986@127.0.0.1:3306/db_name
+DATABASE_URL=mysql://admin:Oracle$1986@127.0.0.1:3306/apiport
 
 #3- Exécution du projet
 -----------------------
