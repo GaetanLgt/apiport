@@ -48,13 +48,13 @@ Installation
     Exemple:
     DATABASE_URL=‘mysql://db_user:db_password@127.0.0.1:3306/db_name’
     
-    db_user: root
+    db_user: db_user
     
-    db_password: par défaut vide 
+    db_password: db_password 
     
-    db_name: nom de votre base par exemple 'apiport'
+    db_name: nom de votre base par exemple 'db_name'
 
-DATABASE_URL=mysql://admin:Oracle$1986@127.0.0.1:3306/apiport
+DATABASE_URL=mysql://admin:Oracle$1986@127.0.0.1:3306/db_name
 
 #3- Exécution du projet
 -----------------------
